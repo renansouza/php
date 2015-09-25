@@ -1,5 +1,5 @@
 <?php 
-
+header('Content-Type: text/html; charset=UTF-8');
 // Exercícios com arrays
 
 // Push - usado para adicionar elemento ao final do array
