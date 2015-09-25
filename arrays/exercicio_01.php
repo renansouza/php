@@ -21,4 +21,10 @@ echo "<h2>Array Shift</h2>";
 	array_shift($nomes);
 	var_dump($nomes);
 
+// Unshift - usado para adicionar elemento no início do array
+
+echo "<h2>Array Unshift</h2>";
+	array_unshift($nomes, "Lucas");
+	var_dump($nomes);
+
 ?>
